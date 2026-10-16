@@ -1,12 +1,13 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_widgets_stashe/gradient_container.dart';
+import 'gradient_container.dart';
 
-void main(){
-  runApp(MaterialApp(
-    debugShowCheckedModeBanner: false,
-    home: (Scaffold(
-      body: GradientContsiner(),
-      )),
-    ),
+void main() {
+  runApp(
+    const MaterialApp(
+      debugShowCheckedModeBanner: false,
+      home: Scaffold(
+        body: GradientContainer(),
+      ), // Scaffold
+    ), // MaterialApp
   );
 }
