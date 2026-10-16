@@ -14,11 +14,11 @@
 
 ## Скриншот финального приложения
 
-![Финальное приложение Roll Dice](img/step6_Сташевский.png)
+![Финальное приложение Roll Dice](img/step6_Stash2.png)
 
 ## Ссылка на репозиторий
 
-https://github.com/username/Flutter_Widgets
+https://github.com/vekysek12-wq/Flutter_Widgets.git
 
 ## Инструкция по запуску
 
